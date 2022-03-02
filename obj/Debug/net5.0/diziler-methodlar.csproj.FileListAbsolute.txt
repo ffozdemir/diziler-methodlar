@@ -1,0 +1,16 @@
+C:\Users\Owner\Desktop\Pratikler\diziler-methodlar\bin\Debug\net5.0\diziler-methodlar.exe
+C:\Users\Owner\Desktop\Pratikler\diziler-methodlar\bin\Debug\net5.0\diziler-methodlar.deps.json
+C:\Users\Owner\Desktop\Pratikler\diziler-methodlar\bin\Debug\net5.0\diziler-methodlar.runtimeconfig.json
+C:\Users\Owner\Desktop\Pratikler\diziler-methodlar\bin\Debug\net5.0\diziler-methodlar.runtimeconfig.dev.json
+C:\Users\Owner\Desktop\Pratikler\diziler-methodlar\bin\Debug\net5.0\diziler-methodlar.dll
+C:\Users\Owner\Desktop\Pratikler\diziler-methodlar\bin\Debug\net5.0\ref\diziler-methodlar.dll
+C:\Users\Owner\Desktop\Pratikler\diziler-methodlar\bin\Debug\net5.0\diziler-methodlar.pdb
+C:\Users\Owner\Desktop\Pratikler\diziler-methodlar\obj\Debug\net5.0\diziler-methodlar.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\Pratikler\diziler-methodlar\obj\Debug\net5.0\diziler-methodlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\Pratikler\diziler-methodlar\obj\Debug\net5.0\diziler-methodlar.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\Pratikler\diziler-methodlar\obj\Debug\net5.0\diziler-methodlar.AssemblyInfo.cs
+C:\Users\Owner\Desktop\Pratikler\diziler-methodlar\obj\Debug\net5.0\diziler-methodlar.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Pratikler\diziler-methodlar\obj\Debug\net5.0\diziler-methodlar.dll
+C:\Users\Owner\Desktop\Pratikler\diziler-methodlar\obj\Debug\net5.0\ref\diziler-methodlar.dll
+C:\Users\Owner\Desktop\Pratikler\diziler-methodlar\obj\Debug\net5.0\diziler-methodlar.pdb
+C:\Users\Owner\Desktop\Pratikler\diziler-methodlar\obj\Debug\net5.0\diziler-methodlar.genruntimeconfig.cache
